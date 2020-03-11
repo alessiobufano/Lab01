@@ -2,11 +2,11 @@ package it.polito.tdp.parole.model;
 
 import java.util.*;
 
-public class Parole {
+public class ParoleArrayList {
 		
-	LinkedList<String> elenco = new LinkedList<String>();
+	ArrayList<String> elenco = new ArrayList<String>();
 	
-	public Parole() {
+	public ParoleArrayList() {
 		//TODO
 	}
 	
